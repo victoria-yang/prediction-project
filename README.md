@@ -2,7 +2,7 @@
 
 ### Description
 
-In this project, the student data is modeled using three flavors of tree algorithm: CART, C4.5 and C5.0. We will be using these algorithms to attempt to predict which students drop out of courses.
+In this assignment, the student data is modeled using three flavors of tree algorithm: CART, C4.5 and C5.0. We will be using these algorithms to attempt to predict which students drop out of courses.
 
 ### Prerequisites
 
@@ -30,8 +30,10 @@ install.packages("C50")
 
 
 ## Procedure
-
-
+* Separate data set into a training set and a test set
+* Visualize the relationships between chosen variables as a scatterplot mat
+* CART Trees
+* Use cartfit to check the results
 
 
 
@@ -39,6 +41,3 @@ install.packages("C50")
 [Chieh-An (Victoria) Yang](https://www.linkedin.com/in/victoria-chieh-an-yang/) - Learning Analytics MS student at Teachers College, Columbia University
 
 
-## Acknowledgments
-**Charles Lang** - Visiting Assistant Professor at Teachers College, Columbia University
-* This project is an assignment for HUDK 4051: Learning Analytics: Process and Theory, an educational data mining course taught by Dr.Lang in Teachers College. 
