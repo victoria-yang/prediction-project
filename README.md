@@ -2,7 +2,7 @@
 
 ### Description
 
-In this assignment, the student data is modeled using three flavors of tree algorithm: CART, C4.5 and C5.0. We will be using these algorithms to attempt to predict which students drop out of courses.
+In this project, the student data is modeled using three flavors of tree algorithm: CART, C4.5 and C5.0. We will be using these algorithms to attempt to predict which students drop out of courses.
 
 ### Prerequisites
 
